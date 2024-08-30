@@ -6,4 +6,4 @@ This repo collects different apps I've made using [Shiny Assistant](https://gall
 - qr-code generator
 - recipe-finder
 - tip-calculator
-- quarto-clipper: Uses OpenAI API and Beautiful Soup to convert a webpage to a Quarto document 
+- [quarto-clipper](https://github.com/parmsam/quarto-clipper-llm-app): Uses OpenAI API and Beautiful Soup to convert a webpage to a Quarto document 
