@@ -1,6 +1,6 @@
 # Shiny Assistant Apps
 
-This repo collects different apps I've made using [Shiny Assistant](https://gallery.shinyapps.io/assistant/) released at Posit Conf 2024.
+This repo collects different apps I've made using [Shiny Assistant](https://gallery.shinyapps.io/assistant/) originally released at Posit Conf 2024.
 
 - mood tracker
 - qr-code generator
