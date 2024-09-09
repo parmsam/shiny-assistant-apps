@@ -11,3 +11,4 @@ This repo collects different apps I've made using [Shiny Assistant](https://gall
 - text to speech
 - [code-architecture-diagram-llm-app](https://github.com/parmsam/code-architecture-diagram-llm-app/): Uses OpenAI API to generate a code architecture diagrams for Github Repos
 - [quarto-clipper-llm-app](https://github.com/parmsam/quarto-clipper-llm-app): Uses OpenAI API and Beautiful Soup to convert a webpage to a Quarto document 
+- [auto-wiki-links-llm-app](https://github.com/parmsam/auto-wiki-links-llm-app): Uses OpenAI API to generate a auto-link a body of text with Wikipedia links
