@@ -5,7 +5,7 @@ format: gfm
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-```{python}
+```{python setup}
 #| echo: FALSE
 import shinylive
 import os
