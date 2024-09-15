@@ -36,6 +36,7 @@ mermaid = encode_app("mermaid-chart-builder-app")
 text_case = encode_app("text-case-converter-app")
 tts = encode_app("text-to-speech-app")
 tip = encode_app("tip-calculator-app")
+ical = encode_app("itinerary-to-ical")
 ```
 
 # shiny-assistant-apps
@@ -49,6 +50,7 @@ This repo collects different apps I've made using [Shiny Assistant](https://gall
 - [mermaid-chart-builder](`{python} mermaid`)
 - [text case converter](`{python} text_case`)
 - [text to speech](`{python} tts`)
+- [itinerary text to ical](`{python} ical`)
 - [code-architecture-diagram-llm-app](https://github.com/parmsam/code-architecture-diagram-llm-app/): Uses OpenAI API to generate a code architecture diagrams for Github Repos
 - [quarto-clipper-llm-app](https://github.com/parmsam/quarto-clipper-llm-app): Uses OpenAI API and Beautiful Soup to convert a webpage to a Quarto document 
 - [auto-wiki-links-llm-app](https://github.com/parmsam/auto-wiki-links-llm-app): Uses OpenAI API to generate a auto-link a body of text with Wikipedia links
